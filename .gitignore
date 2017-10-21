@@ -1,0 +1,10 @@
+# temp files
+*~
+*.swp
+*.tmp
+
+# pycache
+__pycache__
+
+# dist files
+dist
